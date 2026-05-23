@@ -135,13 +135,10 @@ These projects are being cleaned up and documented for GitHub. Each is a complet
 - Led PR strategy, outreach, and sponsorship acquisition for a **100+ member** club
 - Coordinated flagship events: **Youth Entrepreneurs Day**, speaker sessions & workshops
 
-**Public Relations Representative** — *Microsoft Club & Google Developer Group (GDG), Nile University* `2026`
+**Public Relations Representative** — *Microsoft Club & Google Developer Group (GDG), Nile University* `2024`
 - Organized technical workshops and developer events for **500+ student attendees**
 
-**Public Relations Representative** — *NU Book Club, Nile University* `2023–2024`
-- Led social media campaigns and co-organized the university **Book Fair**
-
-**Event Organizer & Volunteer** — *DeepX Hackathon · Youth Entrepreneurs Day · E-gnite* `2026`
+**Event Organizer & Volunteer** — *DeepX Hackathon · Youth Entrepreneurs Day · E-gnite* `2024`
 - Supported logistics and on-site coordination for multiple large-scale campus events
 
 ---
