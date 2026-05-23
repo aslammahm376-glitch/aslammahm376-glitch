@@ -34,7 +34,6 @@ class IslamMahmoud:
         self.name       = "Islam Mahmoud"
         self.role       = "AI Undergraduate @ Nile University"
         self.location   = "Giza, Egypt 🇪🇬"
-        self.gpa        = "3.1 / 4.0"
         self.languages  = ["Arabic (Native)", "English (Proficient)"]
         self.interests  = ["Machine Learning", "NLP", "Computer Vision", "Deep Learning"]
         self.currently  = "Exploring transformers, CV pipelines & model deployment"
