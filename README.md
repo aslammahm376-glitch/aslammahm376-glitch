@@ -18,11 +18,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-aslammahmou376%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aslammahmou376@gmail.com)
 [![Certificates](https://img.shields.io/badge/Certificates-View%20All-F59E0B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1ra629HMLBOEVcaJO7gOw4ntPj_eoR-HR)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=aslammahm376-glitch&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
