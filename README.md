@@ -106,7 +106,6 @@ I'm an AI undergraduate with hands-on experience in machine learning, NLP, and c
 
 </div>
 
-> *"An expert is a person who has made all the mistakes that can be made in a very narrow field."* — Niels Bohr
 
 ---
 
